@@ -1,2 +1,2 @@
 # Saper with gui using SFML
- c++
+ clone version of popular game with additional improved bomb
